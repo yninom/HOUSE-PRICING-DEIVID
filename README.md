@@ -27,4 +27,4 @@ To run the tests, use the following command: `python -m unittest test_app.py`
 
 ## Contributing
 
-If you want to contribute to this project, please fork the repository, make your changes, and open a pull request. All contributions are welcome!
+If you want to contribute to this project, please fork the repository, make your changes, and open a pull request. All contributions are welcome.
